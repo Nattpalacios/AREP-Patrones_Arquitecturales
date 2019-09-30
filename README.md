@@ -33,38 +33,32 @@ Vamos a aprender a desplegar un sitio estático usan S3 en AWS en unos pasos muy
 9. Entramos al bucket que creamos dando clic sobre él y damos clic en Upload para subir nuestro archivo estático, en este caso yo subiré un archivo de tipo html.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/8.png)
 
-10. 
+10. Damos clic en 'Add Files' y seleccionamos nuestro archivo.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/9.png)
 
-11.
+11. Una vez seleccionado el archivo que queremos subir, damos clic en Next.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/10.png)
 
-12.
+12. En este paso no debemos cambiar nada, solo damos clic en Next.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/11.png)
 
-13.
+13. Lo dejamos con ese y damos clic en Next.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/12.png)
 
-14.
+14. Damos clic en Upload para cargar el archivo.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/13.png)
 
-15.
+15. Una vez subido el archivo, debe aparecernos algo así. Damos clic sobre él para poder verlo.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/14.png)
 
-16.
+16. Damos clic en el link donde se desplegó.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/15.png)
 
-17.
+17. Es posible que nos aparezca esto, así que nos devolvemos a donde estábamos.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/16.png)
 
-18.
+18. Vamos a la pestaña 'Permissions' y en Public Access seleccionamos Everyone.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/17.png)
 
-19.
+19. Nos debe aparecer este recuadro y habilitamos Read Object para que al abrir el enlace nos muestre nuestro archivo. Damos clic en Save. Una vez hecho esto, volvemos a la pestaña Overview y volvemos a abrir el enlace. Ya debería funcionar. Eso es todo.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/18.png)
-
-20.
-![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/19.png)
-
-21.
-![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/20.png)
