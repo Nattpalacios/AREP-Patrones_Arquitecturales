@@ -187,7 +187,7 @@ Ahora vamos a aprender a desplegar un recurso dinámico en el servicio EC2 de AW
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/46.png)
 
 39. 
-![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/50.png)
+![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/50.PNG)
 
 40.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/47.png)
