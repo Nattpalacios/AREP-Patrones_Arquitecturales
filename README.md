@@ -133,6 +133,7 @@ Ahora vamos a aprender a desplegar un recurso dinámico en el servicio EC2 de AW
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/32.PNG)
 
 21. En este punto lo que hacemos es correr nuestra API localmente y debería aparecernos algo así, con los datos que le metimos a la base de datos.
+
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/33.PNG)
 
 22. Ahora vamos a desplegar la API con EC2. Para ello, en la consola de AWS seleccionamos el servicio EC2 en la sección 'Compute'.
