@@ -62,3 +62,9 @@ Vamos a aprender a desplegar un sitio estático usando S3 en AWS en unos pasos m
 
 19. Nos debe aparecer este recuadro y habilitamos Read Object para que al abrir el enlace nos muestre nuestro archivo. Damos clic en Save. Una vez hecho esto, volvemos a la pestaña Overview y volvemos a abrir el enlace. Ya debería funcionar. Eso es todo.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/18.png)
+
+## Videos
+
+Para ver los videos de los tutoriales:
+- https://github.com/Nattpalacios/AREP-Patrones_Arquitecturales/blob/master/Videos/S3-Archivo%20estatico.mp4
+- 
