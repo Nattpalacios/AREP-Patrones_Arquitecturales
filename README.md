@@ -72,128 +72,125 @@ Para ver el video del tutorial:
 
 Ahora vamos a aprender a desplegar un recurso dinámico en el servicio EC2 de AWS haciendo uso de una base de datos también creada en AWS. Para poder hacer esto, es importante que tengamos una cuenta en AWS o AWS Educate. Antes de empezar, ingresamos a nuestra cuenta de AWS o AWS Educate y abrimos la consola.
 
-1.
+1. Una vez dentro de la consola, buscamos VPC, el cual nos ayudará a abrir los puertos para poder conectarnos a la base de datos.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/1.png)
 
-2.
+2. Ya dentro de VPC, nos vamos a la sección Security y damos clic en Security Groups, como se señala en la imagen.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/2.png)
 
-3.
+3. Vamos a crear un grupo de seguridad, así que damos clic en Create security group en la parte superior.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/3.png)
 
-4.
+4. Le asignamos un nombre, ponemos una descripción y le asignamos el VPC que aparece por defecto. Damos clic en Create.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/4.png)
 
 5.
-![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/5.png)
-
-6.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/6.png)
 
-7.
+6.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/7.png)
 
-8.
+7.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/8.png)
 
-9.
+8.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/9.png)
 
-10.
+9.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/10.png)
 
-11.
+10.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/11.png)
 
-12.
+11.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/12.png)
 
-13.
+12.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/13.png)
 
-14.
+13.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/14.png)
 
-15.
+14.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/16.PNG)
 
-16.
+15.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/17.PNG)
 
-17.
+16.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/18.PNG)
 
-18.
+17.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/19.PNG)
 
-19.
+18.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/20.PNG)
 
-20.
+19.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/21.PNG)
 
-21.
+20.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/23.PNG)
 
-22.
+21.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/24.PNG)
 
-23.
+22.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/26.PNG)
 
-24.
+23.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/27.PNG)
 
-25.
+24.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/30.PNG)
 
-26.
+25.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/31.PNG)
 
-27.
+26.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/32.PNG)
 
-28.
+27.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/33.PNG)
 
-29.
+28.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/34.PNG)
 
-30.
+29.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/35.PNG)
 
-31.
+30.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/36.png)
 
-32.
+31.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/37.png)
 
-33.
+32.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/41.png)
 
-34.
+33.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/42.png)
 
-35.
+34.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/43.png)
 
-36.
+35.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/44.png)
 
-37.
+36.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/45.png)
 
-38.
+37.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/46.png)
 
-39. 
+38. 
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/50.PNG)
 
-40.
+39.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/47.png)
 
-41.
+40.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/48.png)
 
-42.
+41.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/49.png)
