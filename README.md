@@ -6,7 +6,7 @@ Natalia Faride Palacios Rozo
 
 ## Desplegar un sitio estático usando S3
 
-Vamos a aprender a desplegar un sitio estático usan S3 en AWS en unos pasos muy sencillos.
+Vamos a aprender a desplegar un sitio estático usando S3 en AWS en unos pasos muy sencillos.
 
 1. Lo primero que haremos es abrir la consola de AWS.
 2. Seleccionamos S3 en la sección ‘Storage’.
