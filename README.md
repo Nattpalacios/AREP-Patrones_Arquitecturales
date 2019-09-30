@@ -57,7 +57,7 @@ Vamos a aprender a desplegar un sitio estático usan S3 en AWS en unos pasos muy
 17. Es posible que nos aparezca esto, así que nos devolvemos a donde estábamos.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/16.png)
 
-18. Vamos a la pestaña 'Permissions' y en Public Access seleccionamos Everyone.
+18. Vamos a la pestaña 'Permissions' y en Public access seleccionamos Everyone.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/17.png)
 
 19. Nos debe aparecer este recuadro y habilitamos Read Object para que al abrir el enlace nos muestre nuestro archivo. Damos clic en Save. Una vez hecho esto, volvemos a la pestaña Overview y volvemos a abrir el enlace. Ya debería funcionar. Eso es todo.
