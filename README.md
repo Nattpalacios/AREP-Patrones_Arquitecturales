@@ -172,5 +172,5 @@ Ahora vamos a aprender a desplegar un recurso dinámico en el servicio EC2 de AW
 31. Cuando ya subimos nuestro jar a la máquina, volvemos a escribir el comando de ssh.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/48.png)
 
-32. En el paso 27 nos dan el link con el que podemos conectarnos a la máquina virtual, lo ponemos y le agregamos ':8080/estudiantes', donde estudiantes es el nombre que le hayamos puesto en nuestra API para conectarnos.
+32. En el paso 29 nos dan el link con el que podemos conectarnos a la máquina virtual, lo ponemos y le agregamos ':8080/estudiantes', donde estudiantes es el nombre que le hayamos puesto en nuestra API para conectarnos.
 ![](https://raw.githubusercontent.com/Nattpalacios/AREP-Patrones_Arquitecturales/master/Imagenes/49.png)
